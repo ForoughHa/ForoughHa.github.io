@@ -34,7 +34,7 @@ F. Habibollahi,  N.C. Rogasch,  N.A. McNair, M. Biabani,  S.D. Pillen,  T.R. Mar
 
 
 <a href="https://www.mdpi.com/2076-3425/7/8/109/htm">Alzheimer's disease early diagnosis using manifold-based semi-supervised learning </a> <br />
-M. Khajehnejad, F. Habibollahi Saatlou, H. Mohammadzade<br />
+M. Khajehnejad, F. Habibollahi, H. Mohammadzade<br />
 <em>Brain sciences</em>
 
 
