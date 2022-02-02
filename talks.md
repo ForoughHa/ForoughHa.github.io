@@ -2,15 +2,12 @@
 layout: page
 title: Talks
 ---
-- <b>2022:</b> Hunting for Dual-target Set on a Class of Hierarchical Networks at <b>International Conference on Network Science (NetSci-X 2022)</b>. 
+- <b>2022:</b> Hunting for Dual-target Set on a Class of Hierarchical Networks at <b>International Conference on Network Science < a href="https://netscix.dcc.fc.up.pt/accepted-submissions">(NetSci-X 2022)</a></b>. 
 
-- <b>2021:</b> CrossWalk: Fairness-enhanced Node Representation Learning at <b>ICML 2021, Workshop on Socially Responsible Machine Learning</b>.  
+- <b>2021:</b> Mouse Hippocampus Neural Ensembles Are Tuned Near Criticality During a Cognition Task <b>Society for Neuroscience 2021 <a href="
+ https://www.abstractsonline.com/pp8/#!/10485/presentation/21172">(SFN, 2021)</a>.</b>.  
 
-- <b>2020:</b> Adversarial Graph Embeddings for Fair Influence Maximization over Social Networks at <b> IJCAI 2020</b> and <b>Machine Learning Summer School (MLSS) 2020</b>. [<a href="https://www.youtube.com/watch?v=dYSjbhN6zss&t=12s">Link to my presentation.</a>]  
-
-
-- <b>2019:</b> Optimal Decision Making Under Strategic Behavior at <b>Human-Centric Machine Learning (HCML) Workshop, NeurIPS, Vancouver, Canada, 2019</b>. 
-
+- <b>2021:</b> Mouse Hippocampus Neural Ensembles Are Tuned Near Criticality During a Cognition Task <b>Biological Psychiatry Australia 2020 (BPA, 2019).</b>.  
 
 
 
