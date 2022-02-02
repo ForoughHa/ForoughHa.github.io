@@ -4,8 +4,7 @@ title: Talks
 ---
 - <b>2022:</b> Hunting for Dual-target Set on a Class of Hierarchical Networks at <b>International Conference on Network Science <a href="https://netscix.dcc.fc.up.pt/accepted-submissions">(NetSci-X 2022)</a></b>. 
 
-- <b>2021:</b> Mouse Hippocampus Neural Ensembles Are Tuned Near Criticality During a Cognition Task <b>Society for Neuroscience 2021 <a href="
- https://www.abstractsonline.com/pp8/#!/10485/presentation/21172">(SFN, 2021)</a></b>.  
+- <b>2021:</b> Mouse Hippocampus Neural Ensembles Are Tuned Near Criticality During a Cognition Task <b>Society for Neuroscience 2021 <a href="https://www.abstractsonline.com/pp8/#!/10485/presentation/21172">(SFN, 2021)</a></b>.  
 
 - <b>2021:</b> Mouse Hippocampus Neural Ensembles Are Tuned Near Criticality During a Cognition Task <b>Biological Psychiatry Australia 2020 (BPA, 2019)</b>.  
 
