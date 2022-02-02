@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Hi :))
+title: Hi :)
 
 # Short description of your site
 #description: A virtual proof that name is awesome!
@@ -70,7 +70,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author: 
-  name: Moein Khajehnejad
+  name: Forough Habibollahi
 
 
 # Select your active Social Network Links.
@@ -79,13 +79,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   #rss: true
-  email: "moein.khajehnejad@gmail.com"
-  # facebook: moein.khajenezhad
-  github: Moein-Khajehnejad
-  twitter: MKhajehnejad
+  email: "forough.habibollahi@gmail.com"
+  # facebook: 
+  github: ForoughHa
+  twitter: Forough_HaS
 #  reddit: yourname
-  linkedin: moein-khajenejad-b1746885
-  # google-scholar: sNCC42QAAAAJ
+  linkedin: forough-habibollahi-a18581b5/
+  # google-scholar:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
