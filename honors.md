@@ -5,13 +5,13 @@ title: Honors
 - <b>2022:</b> Elected to receive the student support provided by Katana Graph to attend <b>NetSci-X 2022</b> conference in Porto, Portugal.
  
 
-- <b>2021:</b> Received full scholarship to the PhD program in Biomedical Engineering at University of Melbourne</b>, Melbourne, Australia. 
+- <b>2021:</b> Received <b>full scholarship to the PhD program in Biomedical Engineering at University of Melbourne</b>, Melbourne, Australia. 
 
-- <b>2020:</b> Awarded CHF 4000 excellence scholarship</b> by Vahabzadeh Foundation at EPFL. 
+- <b>2020:</b> Awarded CHF 4000 <b>excellence scholarship</b> by Vahabzadeh Foundation at EPFL. 
 
-- <b>2020:</b>  Admitted to the Master of Science in Bioengineering at EPFL</b>; Lausanne, Switzerland. 
+- <b>2020:</b>  Admitted to the <b>Master of Science in Bioengineering at EPFL</b>, Lausanne, Switzerland. 
 
-- <b>2019:</b> Awarded $ 4000 SGD summer internship grant from SUTD-MIT.</b>, Singapore. 
+- <b>2019:</b> Awarded $ 4000 SGD <b>summer internship grant from SUTD-MIT.</b>, Singapore. 
 
 
 
