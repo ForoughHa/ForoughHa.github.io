@@ -13,7 +13,7 @@ title: Publications <a href="https://scholar.google.com/citations?user=t6uNqqIAA
 <em>to appear in Proceedings of International Conference on Network Science (NetSci-X 2022)</em>
 
 
-<a >Neural Network Poisson Models for Behavioural and Neural Spike Train Data </a> 
+<a href="https://www.biorxiv.org/content/10.1101/2020.07.13.201673v2">Neural Network Poisson Models for Behavioural and Neural Spike Train Data </a> 
  <br />
  F. Habibollahi<sup>∗</sup>, M. Khajehnejad<sup>∗</sup>,  R. Nock, E. Arabzadeh, P. Dayan, A. Dezfouli
 <br />
