@@ -6,7 +6,7 @@ title: Publications <a href="https://scholar.google.com/citations?user=t6uNqqIAA
 <!-- --- -->
 
 
-<a >Hunting for Dual-target Set on a Class of Hierarchical Networks </a> 
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-97240-0_8">Hunting for Dual-target Set on a Class of Hierarchical Networks </a> 
  <br />
  M. Khajehnejad, F. Habibollahi
 <br />
