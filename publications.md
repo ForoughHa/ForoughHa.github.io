@@ -10,7 +10,7 @@ title: Publications <a href="https://scholar.google.com/citations?user=t6uNqqIAA
  <br />
  M. Khajehnejad, F. Habibollahi
 <br />
-<em>International Conference on Network Science. Springer, Cham</em>
+<em>International Conference on Network Science. Springer, Cham, 2022</em>
 
 
 <a href="https://www.biorxiv.org/content/10.1101/2020.07.13.201673v2">Neural Network Poisson Models for Behavioural and Neural Spike Train Data </a> 
@@ -35,7 +35,7 @@ F. Habibollahi,  N.C. Rogasch,  N.A. McNair, M. Biabani,  S.D. Pillen,  T.R. Mar
 
 <a href="https://www.mdpi.com/2076-3425/7/8/109/htm">Alzheimer's disease early diagnosis using manifold-based semi-supervised learning </a> <br />
 M. Khajehnejad, F. Habibollahi, H. Mohammadzade<br />
-<em>Brain sciences</em>
+<em>Brain sciences, 2017</em>
 
 
 <!--
