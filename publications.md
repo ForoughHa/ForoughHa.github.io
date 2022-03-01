@@ -10,7 +10,7 @@ title: Publications <a href="https://scholar.google.com/citations?user=t6uNqqIAA
  <br />
  M. Khajehnejad, F. Habibollahi
 <br />
-<em>to appear in Proceedings of International Conference on Network Science (NetSci-X 2022)</em>
+<em>International Conference on Network Science. Springer, Cham</em>
 
 
 <a href="https://www.biorxiv.org/content/10.1101/2020.07.13.201673v2">Neural Network Poisson Models for Behavioural and Neural Spike Train Data </a> 
@@ -23,7 +23,7 @@ title: Publications <a href="https://scholar.google.com/citations?user=t6uNqqIAA
  <br />
  F. Habibollahi<sup>∗</sup>, C. Olteanu<sup>∗</sup>,  C. French
 <br />
-<em>Published in Frontiers in Computational Neuroscience, 2021</em>
+<em>Frontiers in Computational Neuroscience, 2021</em>
 
 <!-- ### 2016 -->
 <!-- --- -->
