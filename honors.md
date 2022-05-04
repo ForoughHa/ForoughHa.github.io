@@ -2,6 +2,10 @@
 layout: page
 title: Honors
 ---
+
+- <b>2022:</b> Elected as in on-site participant in the <b>Complex Networks: Theory, Methods, and Applications,
+Lake Como School of Advanced Studies<b>, Como, Italy.
+
 - <b>2022:</b> Elected to receive the student support provided by Katana Graph to attend <b>NetSci-X 2022</b> conference in Porto, Portugal.
  
 
