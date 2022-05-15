@@ -5,19 +5,18 @@ title: Publications <a href="https://scholar.google.com/citations?user=t6uNqqIAA
 <!-- ### 2022 -->
 <!-- --- -->
 
+<a href="https://www.biorxiv.org/content/10.1101/2020.07.13.201673v2">Neural Network Poisson Models for Behavioural and Neural Spike Train Data </a> 
+ <br />
+ F. Habibollahi<sup>∗</sup>, M. Khajehnejad<sup>∗</sup>,  R. Nock, E. Arabzadeh, P. Dayan, A. Dezfouli
+<br />
+<em>In Proceedings of the 2022 International Conference on Machine Learning (ICML 2022)</em>
+
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-97240-0_8">Hunting for Dual-target Set on a Class of Hierarchical Networks </a> 
  <br />
  M. Khajehnejad, F. Habibollahi
 <br />
 <em>International Conference on Network Science. Springer, Cham, 2022</em>
-
-
-<a href="https://www.biorxiv.org/content/10.1101/2020.07.13.201673v2">Neural Network Poisson Models for Behavioural and Neural Spike Train Data </a> 
- <br />
- F. Habibollahi<sup>∗</sup>, M. Khajehnejad<sup>∗</sup>,  R. Nock, E. Arabzadeh, P. Dayan, A. Dezfouli
-<br />
-<em>In Proceedings of the 2022 International Conference on Machine Learning (ICML 2022)</em>
 
 
 <a href="https://www.biorxiv.org/content/10.1101/2022.04.26.489497v1.full.pdf">Utilising hippocampal neuronal calcium activity in mouse CA1 for a
