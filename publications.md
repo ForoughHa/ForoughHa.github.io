@@ -17,7 +17,7 @@ title: Publications <a href="https://scholar.google.com/citations?user=t6uNqqIAA
  <br />
  F. Habibollahi<sup>∗</sup>, M. Khajehnejad<sup>∗</sup>,  R. Nock, E. Arabzadeh, P. Dayan, A. Dezfouli
 <br />
-<em>Submitted to Proceedings of the National Academy of Sciences of the United States of America (PNAS), 2022</em>
+<em>In Proceedings of the 2022 International Conference on Machine Learning (ICML 2022)</em>
 
 
 <a href="https://www.biorxiv.org/content/10.1101/2022.04.26.489497v1.full.pdf">Utilising hippocampal neuronal calcium activity in mouse CA1 for a
