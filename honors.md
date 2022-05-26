@@ -3,6 +3,8 @@ layout: page
 title: Honors
 ---
 
+- <b>2022:</b> Accepted as an on-site participant in the <b>NETHIKE 2022 Summer School</b>, Social Networks Lab, ***ETH***Zurich.
+
 - <b>2022:</b> Accepted as an on-site participant in the <b>Complex Networks: Theory, Methods, and Applications,
 Lake Como School of Advanced Studies (Acceptance rate: 20 %) </b>, Como, Italy.
 
