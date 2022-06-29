@@ -9,7 +9,7 @@ title: Publications <a href="https://scholar.google.com/citations?user=t6uNqqIAA
  <br />
  F. Habibollahi<sup>∗</sup>, M. Khajehnejad<sup>∗</sup>,  R. Nock, E. Arabzadeh, P. Dayan, A. Dezfouli
 <br />
-<em>In Proceedings of the 2022 International Conference on Machine Learning (ICML 2022)</em>
+<em>In Proceedings of the 39th International Conference on Machine Learning (ICML 2022)</em>
 
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-97240-0_8">Hunting for Dual-target Set on a Class of Hierarchical Networks </a> 
