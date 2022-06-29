@@ -6,7 +6,7 @@ title: Talks
 - <b>2022:</b> Evidence of Criticality in Brain. <b> Selected for a featured oral contribution to CNS*2022, Melbourne, Australia. <a href = "https://www.cnsorg.org/cns-2022-presentations">(Link)</a></b> 
 
 
-- <b>2022:</b> “Criticality” As a Potential Biomarker of Cognition In a Psychopharmacological Model of Alzheimer’s Disease. Poster Presentation at <b>Organization for Human Brain Mapping, Glasgow, Scotland (OHBM, 2022) <a 
+- <b>2022:</b> “Criticality” As a Potential Biomarker of Cognition In a Psychopharmacological Model of Alzheimer’s Disease. Poster Presentation at <b>Organization for Human Brain Mapping, Glasgow, Scotland (OHBM, 2022)
 
 - <b>2022:</b> Hunting for Dual-target Set on a Class of Hierarchical Networks at <b> Complex networks: Theory, Methods, and Applications, Como, Italy. <a href = "https://docs.google.com/spreadsheets/d/1Y-gQihPfZNo3eNBIMQ4C7sKKrlue_2SyOuqognUX6c4/edit#gid=0">(List of talks)</a></b> 
 
