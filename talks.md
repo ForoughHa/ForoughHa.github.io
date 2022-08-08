@@ -3,6 +3,8 @@ layout: page
 title: Talks
 ---
 
+- <b>2022:</b> nvestigating Evidence Of Criticality In The Brain Neuronal Networks: A study of in-vivo and in-vitro neuronal ensembles <b> at University College London (UCL) & University of Oxford </b> 
+
 - <b>2022:</b> Evidence of Criticality in Brain Neuronal Networks. <b> Selected for a featured oral contribution to CNS*2022, Melbourne, Australia. <a href = "https://www.cnsorg.org/cns-2022-presentations">(Link)</a></b> 
 
 
