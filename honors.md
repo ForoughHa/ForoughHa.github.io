@@ -3,7 +3,7 @@ layout: page
 title: Honors
 ---
 
-- <b>2022:</b> Awarded travel grant to attend **ICML 2022**, Baltimore, United States.</b>
+- <b>2022:</b> Awarded travel grant to attend **ICML 2022**, Baltimore, United States.
 
 - <b>2022:</b> Accepted as an on-site participant in the <b>NETHIKE 2022 Summer School (Total accepted students worldwide: 16)</b>, Social Networks Lab, ***ETH***Zürich.
 
