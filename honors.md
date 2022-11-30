@@ -3,7 +3,7 @@ layout: page
 title: Honors
 ---
 
-- <b>2023:</b> Selected as a Viewer in the **Global Young Scientists Summit (GYSS)**, Singapore.
+- <b>2023:</b> Selected as a viewer in the **Global Young Scientists Summit (GYSS)**, Singapore.
 
 - <b>2022:</b> Awarded travel grant to attend **ICML 2022**, Baltimore, United States.
 
