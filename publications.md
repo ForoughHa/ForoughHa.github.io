@@ -6,6 +6,15 @@ title: Publications <a href="https://scholar.google.com/citations?user=t6uNqqIAA
 <!-- --- -->
 
 
+<a href="https://memari-workshop.github.io/">Biological Neurons vs Deep Reinforcement Learning: Sample efficiency in a simulated game-world </a> 
+ <br />
+Forough Habibollahi, Moein Khajehnejad, Amitesh Gaurav, Brett J. Kagan
+<br />
+<em> 36th Conference on Neural Information Processing Systems (DeepRL, MemARI ,and LMRL Workshops, NeurIPS 2022) </em>
+
+
+
+
 <a href="https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6">In Vitro Neurons Learn and Exhibit Sentience When Embodied In a Simulated Game-world </a> 
  <br />
 Brett J. Kagan, Andy C. Kitchen, Nhi T. Tran, Forough Habibollahi, Moein Khajehnejad, Bradyn J. Parker, Anjali Bhat, Ben Rollo, Adeel Razi, Karl J. Friston
