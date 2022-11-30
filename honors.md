@@ -3,6 +3,8 @@ layout: page
 title: Honors
 ---
 
+- <b>2023:</b> Selected as a Viewer in the **Global Young Scientists Summit (GYSS)**, January 2023, Singapore.
+
 - <b>2022:</b> Awarded travel grant to attend **ICML 2022**, Baltimore, United States.
 
 - <b>2022:</b> Accepted as an on-site participant in the <b>NETHIKE 2022 Summer School (Total accepted students worldwide: 16)</b>, Social Networks Lab, ***ETH***Zürich.
