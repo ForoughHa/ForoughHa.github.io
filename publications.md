@@ -6,11 +6,11 @@ title: Publications <a href="https://scholar.google.com/citations?user=t6uNqqIAA
 <!-- --- -->
 
 
-<a href="https://memari-workshop.github.io/">Biological Neurons vs Deep Reinforcement Learning: Sample efficiency in a simulated game-world </a> 
+<a href="https://openreview.net/forum?id=4dy11uR96ie">Biological Neurons vs Deep Reinforcement Learning: Sample efficiency in a simulated game-world </a> 
  <br />
 Forough Habibollahi, Moein Khajehnejad, Amitesh Gaurav, Brett J. Kagan
 <br />
-<em> 36th Conference on Neural Information Processing Systems (DeepRL, MemARI ,and LMRL Workshops, NeurIPS 2022) </em>
+<em> 36th Conference on Neural Information Processing Systems (DeepRL, <a href="https://memari-workshop.github.io/">MemARI</a> ,and <a href="https://www.lmrl.org/papers2022">LMRL</a> Workshops, NeurIPS 2022) </em>
 
 
 
