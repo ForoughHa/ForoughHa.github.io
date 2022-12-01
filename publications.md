@@ -6,7 +6,7 @@ title: Publications <a href="https://scholar.google.com/citations?user=t6uNqqIAA
 <!-- --- -->
 
 
-<a href="https://openreview.net/forum?id=N5qLXpc7HQy">Biological Neurons vs Deep Reinforcement Learning: Sample efficiency in a simulated game-world </a> 
+<a href="https://openreview.net/pdf?id=N5qLXpc7HQy">Biological Neurons vs Deep Reinforcement Learning: Sample efficiency in a simulated game-world </a> 
  <br />
 Forough Habibollahi, Moein Khajehnejad, Amitesh Gaurav, Brett J. Kagan
 <br />
