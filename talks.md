@@ -2,6 +2,7 @@
 layout: page
 title: Talks
 ---
+- <b>2022:</b> An in vitro neuronal computing module displays self-organised critical dynamics on complex task acquisition <b> Selected for oral presentation at ANS 2022, Melbourne, Australia. <a href="https://www.ans.org.au/resources/past-ans-conferences/57-past-ans-conferences">(Conference program)</a> </b> 
 
 - <b>2022:</b> Investigating Evidence Of Criticality In The Brain Neuronal Networks: A study of in-vivo and in-vitro neuronal ensembles <b> at University College London (UCL) & University of Oxford, United Kingdom. </b> 
 
