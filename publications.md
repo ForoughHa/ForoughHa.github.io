@@ -5,6 +5,25 @@ title: Publications <a href="https://scholar.google.com/citations?user=t6uNqqIAA
 <!-- ### 2022 -->
 <!-- --- -->
 
+<a href="https://www.nature.com/articles/s41467-023-41020-3">Critical dynamics arise during structured information presentation: analysis of embodied in vitro neuronal networks</a>
+<br />
+Forough Habibollahi, Brett J. Kagan, Andrew N. Burkitt, Caleb French
+<br />
+<em>Nature Communications (2023)</em>  
+
+
+<a href="https://arxiv.org/pdf/2410.00665">TAVRNN: Temporal Attention-enhanced Variational Graph RNN Captures Neural Dynamics and Behavior</a>
+<br />
+Moein Khajehnejad, Forough Habibollahi, Brett J. Kagan, Adeel Razi
+<br />
+<em>In review</em>  
+
+<a href="https://openreview.net/pdf?id=dq53F97iVv">On Complex Network Dynamics of an In-Vitro Neuronal System during Rest and Gameplay</a>
+<br />
+Moein Khajehnejad, Forough Habibollahi, Brett J. Kagan, Adeel Razi
+<br />
+<em>In Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS 2023: InfoCog, GenBio, RealML, NeurReps <a href="https://openreview.net/pdf?id=dq53F97iVv">Oral presentation</a>)</em>  
+
 
 <a href="https://openreview.net/pdf?id=N5qLXpc7HQy">Biological Neurons vs Deep Reinforcement Learning: Sample efficiency in a simulated game-world </a> 
  <br />
