@@ -13,7 +13,7 @@ title: Selected Publications <a href="https://scholar.google.com/citations?user=
     <br />
     <small>Forough Habibollahi, Brett J. Kagan, Andrew N. Burkitt, Caleb French</small>
     <br />
-    <em>Nature Communications (2023)</em>
+    <em><strong>Nature Communications (2023)</strong> </em>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 30%;">
@@ -33,7 +33,7 @@ title: Selected Publications <a href="https://scholar.google.com/citations?user=
     <br />
     <small>Moein Khajehnejad, Forough Habibollahi, Brett J. Kagan, Adeel Razi</small>
     <br />
-    <em>NeurIPS 2023: InfoCog, GenBio, RealML, NeurReps (Oral Presentation)</em>
+    <em><strong>NeurIPS 2023: InfoCog, GenBio, RealML, NeurReps Workshops (Oral Presentation)</strong></em>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 30%;">
@@ -43,7 +43,7 @@ title: Selected Publications <a href="https://scholar.google.com/citations?user=
     <br />
     <small>Forough Habibollahi, Moein Khajehnejad, Amitesh Gaurav, Brett J. Kagan</small>
     <br />
-    <em>NeurIPS 2022 Workshops</em>
+    <em><strong>NeurIPS 2022: DeepRL, MemARI, and LMRL Workshops</strong></em>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 30%;">
@@ -53,7 +53,7 @@ title: Selected Publications <a href="https://scholar.google.com/citations?user=
     <br />
     <small>Brett J. Kagan, Andy C. Kitchen, Nhi T. Tran, Forough Habibollahi, Moein Khajehnejad, Bradyn J. Parker, Anjali Bhat, Ben Rollo, Adeel Razi, Karl J. Friston</small>
     <br />
-    <em>Neuron (2022)</em>
+    <em><strong>Neuron (2022)</strong></em>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 30%;">
@@ -63,7 +63,17 @@ title: Selected Publications <a href="https://scholar.google.com/citations?user=
     <br />
     <small>F. Habibollahi, M. Khajehnejad, R. Nock, E. Arabzadeh, P. Dayan, A. Dezfouli</small>
     <br />
-    <em>ICML 2022</em>
+    <em><strong>ICML 2022</strong></em>
+  </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 30%;">
+    <a href="https://www.biorxiv.org/content/10.1101/2023.08.16.553626v2.full.pdf">
+      Neural Networks Are Tuned Near Criticality During a Cognitive Task and Distanced from Criticality In a Psychopharmacological Model of Alzheimer's Disease
+    </a>
+    <br />
+    <small>F. Habibollahi, D. Sun, A.N. Burkitt, C. French</small>
+    <br />
+    <em>2024</em>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 30%;">
@@ -73,7 +83,7 @@ title: Selected Publications <a href="https://scholar.google.com/citations?user=
     <br />
     <small>M. Khajehnejad, F. Habibollahi</small>
     <br />
-    <em>International Conference on Network Science, Springer, Cham (2022)</em>
+    <em><strong>International Conference on Network Science, Springer, Cham (2022)</strong></em>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 30%;">
@@ -93,7 +103,7 @@ title: Selected Publications <a href="https://scholar.google.com/citations?user=
     <br />
     <small>F. Habibollahi, C. Olteanu, C. French</small>
     <br />
-    <em>Frontiers in Computational Neuroscience (2021)</em>
+    <em><strong>Frontiers in Computational Neuroscience (2021)</strong></em>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 30%;">
@@ -103,7 +113,7 @@ title: Selected Publications <a href="https://scholar.google.com/citations?user=
     <br />
     <small>F. Habibollahi, N.C. Rogasch, N.A. McNair, M. Biabani, S.D. Pillen, T.R. Marshall, T.O. Bergmann</small>
     <br />
-    <em>Brain Stimulation (2018)</em>
+    <em><strong>Brain Stimulation (2018)</strong></em>
   </div>
 
   <div style="border: 1px solid #ccc; border-radius: 10px; padding: 15px; width: 30%;">
@@ -113,7 +123,7 @@ title: Selected Publications <a href="https://scholar.google.com/citations?user=
     <br />
     <small>M. Khajehnejad, F. Habibollahi, H. Mohammadzade</small>
     <br />
-    <em>Brain Sciences (2017)</em>
+    <em><strong>Brain Sciences (2017)</strong></em>
   </div>
 </div>
 
