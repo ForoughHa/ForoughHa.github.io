@@ -3,10 +3,6 @@ layout: page
 title: Professional Contributions
 ---
 
----
-layout: page
-title: Professional Contributions
----
 
 ## Program Organizer:
 - **[The first Workshop on “NeuroAI @ NeurIPS 2024: Fusing Neuroscience and AI for Intelligent Solutions”](https://neuroai-workshop.github.io/)**  
