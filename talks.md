@@ -3,20 +3,15 @@ layout: page
 title: Talks
 ---
 
-- **2024:** Keynote at **Women In Tech Speaker Series**, *Breaking Barriers: A Journey from Engineering to Creating Living Machines*.  
-  **Location:** Melbourne, Australia. **Date:** Aug 2024.  
+- <b>2024:</b> *Breaking Barriers: A Journey from Engineering to Creating Living Machines* <b> Women In Tech Speaker Series, The University of Melbourne, Australia.</b> 
 
-- **2024:** Live **GuestStream** at Active Inference Institute, *Biological Neurons Compete with Deep Reinforcement Learning in Sample Efficiency in a Simulated Gameworld*.  
-  **Location:** Online. **Date:** Aug 2024.  
+- <b>2024:</b> *Biological Neurons Compete with Deep Reinforcement Learning in Sample Efficiency in a Simulated Gameworld* <b> Live GuestStream at Active Inference Institute. <a href="https://www.youtube.com/watch?app=desktop&v=pYJUgEqS42U">(online)</a></b>    
+  
+- <b>2024:</b> *Capturing Dynamics of Live Neurons and Their Behavior in a Game Environment.* <b> Selected for an oral contribution to Computational Neuroscience Meeting (CNS*2024), Melbourne, Australia.</b> 
 
-- **2024:** Oral contribution to **Computational Neuroscience Meeting (CNS*2024)**, *Capturing Dynamics of Live Neurons and Their Behavior in a Game Environment*.  
-  **Location:** Natal, Brazil. **Date:** Jul 2024.  
-
-- **2023:** **Maths in the Brain** workshop, *Brain Cells and Biocomputers*.  
-  **Location:** Melbourne, Australia. **Date:** Oct 2023.  
-
-- **2023:** **Open-Source Neuromorphic Hardware, Software and Wetware (OSN23)**, *Criticality and learning rules of in-vitro brain cells in a dish*.  
-  **Location:** Telluride, USA. **Date:** July 2023.  
+- <b>2023:</b> *Brain Cells and Biocomputers* <b> Invited talk at Maths in the Brain 2023, Melbourne, Australia.</b>   
+  
+- <b>2023:</b> *Criticality and learning rules of in-vitro brain cells in a dish*. <b> Invited talk at Open-Source Neuromorphic Hardware, Software and Wetware,. <a href="[https://www.youtube.com/watch?app=desktop&v=pYJUgEqS42U](https://sites.google.com/view/telluride-2023/recordings?authuser=0)">(OSN23)</a> Telluride, USA</b>   
 
 - <b>2022:</b> An in vitro neuronal computing module displays self-organised critical dynamics on complex task acquisition <b> Selected for oral presentation at ANS 2022, Melbourne, Australia. <a href="https://www.ans.org.au/resources/past-ans-conferences/57-past-ans-conferences">(Conference program)</a> </b> 
 
