@@ -3,6 +3,10 @@ layout: page
 title: Honors
 ---
 
+
+- **2024:** Awarded travel grant to attend **CNS\* 2024**, Natal, Brazil.  
+- **2023 & 2024:** Accepted to the **CIFAR Neuroscience of Consciousness Winter School**, Cancun, Mexico.  
+
 - <b>2023:</b> Selected as a viewer in the **Global Young Scientists Summit (GYSS)**, Singapore.
 
 - <b>2022:</b> Awarded travel grant to attend **ICML 2022**, Baltimore, United States.
