@@ -37,52 +37,74 @@ use-site-title: true
 </section>
 
 <!-- Education Section -->
-<section style="background: #f9f9f9; padding: 20px 0; margin-top: 30px;">
-  <div style="max-width: 800px; margin: 0 auto; line-height: 1.8;">
-    <h2 style="text-align: center; color: #333;">Education & Research Experience</h2>
-    <ul style="list-style: none; padding: 0;">
-      <li>
-          <p>
-            <strong>The University of Melbourne</strong>: I was a Ph.D. student at the 
-            <a href="https://ndl-lab.org/">Neural Dynamics Laboratory</a>, Department of Biomedical Engineering, Melbourne Brain 
-            Center. I studied Calcium Imaging Recordings from freely behaving mice 
-            recorded using Miniscopes to investigate the emergence of criticality in hippocampal neural ensembles during cognitive 
-            tasks compared to the resting state.
-          </p>
-        </li>
-      <li>
-        <p>
-          <strong>École Polytechnique Fédérale de Lausanne (EPFL)</strong>: I undertook M.Sc. courses at the School of Life Sciences 
-          while working under the supervision of Prof. Johannes Graff and Dr. Bianca Ambrogina Silva at the 
-          <a href="https://www.epfl.ch/schools/sv/bmi/">Brain Mind Institute (BMI)</a>.
-        </p>
-      </li>
-      <li>
-        <p>
-          <strong>Singapore University of Technology and Design (SUTD) </strong>: As an undergraduate, 
-          I worked as a research intern at the 
-          <a href="https://med.sutd.edu.sg/subburaj">Medical Engineering and Design Laboratory</a> at <strong>SUTD-MIT</strong>, Singapore University of Technology and Design
-          focusing on image processing and analysis of bone CT data of patients with Osteoporosis using real data from both FBP and SIR methods.
-        </p>
-      </li>
-      
-      <li>
-        <p>
-          <strong>Sharif University of Technology (SUT)</strong>: I earned my B.Sc. degree in Electrical Engineering and worked on the 
-          Chaotic Analysis of Neural Activity in Primary Visual Cortex of Awake Monkey.
-        </p>
-      </li>
+<section style="background: #f9f9f9; padding: 40px 0; margin-top: 30px;">
+  <div style="max-width: 1000px; margin: 0 auto;">
+    <h2 style="text-align: center; color: #333; margin-bottom: 30px;">Education & Research Experience</h2>
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-      <li>
-        <p>
-          During my undergraduate years I also interned remotely at the 
-          <a href="https://www.monash.edu/turner-institute">Turner Institute for Brain and Mental Health</a>, 
-          <b>Monash University</b>, to develop a MATLAB toolbox for serial communication with transcranial magnetic stimulation devices.
+      <!-- Card 1 -->
+      <div style="background: white; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; width: 300px; transition: transform 0.2s;">
+        <h3 style="color: #0078D7;">The University of Melbourne</h3>
+        <p style="font-size: 0.9em; color: #555;">
+          I was a Ph.D. student at the 
+          <a href="https://ndl-lab.org/" style="color: #0078D7;">Neural Dynamics Laboratory</a>, Department of Biomedical Engineering. 
+          I studied Calcium Imaging Recordings from freely behaving mice using Miniscopes to investigate hippocampal criticality.
         </p>
-      </li>
-    </ul>
+      </div>
+
+      <!-- Card 2 -->
+      <div style="background: white; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; width: 300px; transition: transform 0.2s;">
+        <h3 style="color: #0078D7;">EPFL (École Polytechnique Fédérale de Lausanne)</h3>
+        <p style="font-size: 0.9em; color: #555;">
+          I undertook M.Sc. courses at the School of Life Sciences while working with Prof. Johannes Graff and Dr. Bianca Ambrogina Silva 
+          at the <a href="https://www.epfl.ch/schools/sv/bmi/" style="color: #0078D7;">Brain Mind Institute (BMI)</a>.
+        </p>
+      </div>
+
+      <!-- Card 3 -->
+      <div style="background: white; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; width: 300px; transition: transform 0.2s;">
+        <h3 style="color: #0078D7;">SUTD-MIT (Singapore University of Technology and Design)</h3>
+        <p style="font-size: 0.9em; color: #555;">
+          As a research intern at the 
+          <a href="https://med.sutd.edu.sg/subburaj" style="color: #0078D7;">Medical Engineering and Design Laboratory</a>, 
+          I focused on image processing and analysis of bone CT data for Osteoporosis patients using real data from FBP and SIR methods.
+        </p>
+      </div>
+
+      <!-- Card 4 -->
+      <div style="background: white; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; width: 300px; transition: transform 0.2s;">
+        <h3 style="color: #0078D7;">Sharif University of Technology</h3>
+        <p style="font-size: 0.9em; color: #555;">
+          I earned my B.Sc. degree in Electrical Engineering and worked on the Chaotic Analysis of Neural Activity in the 
+          Primary Visual Cortex of an awake monkey.
+        </p>
+      </div>
+
+      <!-- Card 5 -->
+      <div style="background: white; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px; width: 300px; transition: transform 0.2s;">
+        <h3 style="color: #0078D7;">Monash University (Remote Internship)</h3>
+        <p style="font-size: 0.9em; color: #555;">
+          As a remote intern at the 
+          <a href="https://www.monash.edu/turner-institute" style="color: #0078D7;">Turner Institute for Brain and Mental Health</a>, 
+          I developed a MATLAB toolbox for serial communication with transcranial magnetic stimulation devices.
+        </p>
+      </div>
+
+    </div>
   </div>
 </section>
+
+<!-- Add Hover Effect -->
+<style>
+  div[style*="box-shadow"] {
+    cursor: pointer;
+  }
+  div[style*="box-shadow"]:hover {
+    transform: scale(1.05); /* Makes the card pop out slightly */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Increases shadow on hover */
+  }
+</style>
+
 
 <!-- Research Interests Section -->
 <section style="padding: 20px 0; margin-top: 30px;">
