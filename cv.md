@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 ---
-You may find my CV <a href="https://moein-khajehnejad.github.io/Moein_Khajehnejad_CV.pdf" target="_blank">here</a>.
+You may find my CV <a href="" target="_blank">here</a>.
 
 [Last update: March 2019]
 
